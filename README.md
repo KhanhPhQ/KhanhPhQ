@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Khanh, Pham Quoc 👋
 
-<!--
-**KhanhPhQ/KhanhPhQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the League of KhanhPhQ!
+I'm a passionate software developer dedicated to creating efficient and innovative solutions. Here's a bit about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love to read and play chess in my free time.
+- 🔭 I’m currently working on various open-source projects.
+- 🌱 I’m constantly learning and exploring new technologies.
+- 👯 I’m looking to collaborate on exciting projects that make a difference.
+- 📫 How to reach me: [pham-khanh@hotmail.com](mailto:pham-khanh@hotmail.com)
+
+## 🛠️ Technologies & Tools
+
+- **Programming Languages:** Python, C++ (MQL4/MQL5), Java
+- **Databases:** MySQL, SQL Server, Oracle
+- **Tools & Platforms:** Git, Docker, AWS, Azure, VSCode
+- **Other Skills:** Agile, Scrum, DA, DevOps, CI/CD
+
+## 📊 GitHub Stats
+
+![KhanhPhQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhanhPhQ&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhanhPhQ&layout=compact&theme=radical)
+
+## 🔗 Connect with Me
+
+- [Telegram] (https://t.me/kanp110)
+- [Twitter / X](https://x.com/KhanhPQ110)
+- [Facebook] (https://www.facebook.com/khanhph.q)
+- [LinkedIn](https://www.linkedin.com/in/khanhphq)
+
+Thanks for visiting my League! Have a great day! 😄
