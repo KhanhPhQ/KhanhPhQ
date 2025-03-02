@@ -26,9 +26,9 @@ I'm a passionate software developer dedicated to creating efficient and innovati
 
 ## 🔗 Connect with Me
 
-- [Telegram] (https://t.me/kanp110)
+- [Telegram](https://t.me/kanp110)
 - [Twitter / X](https://x.com/KhanhPQ110)
-- [Facebook] (https://www.facebook.com/khanhph.q)
+- [Facebook](https://www.facebook.com/khanhph.q)
 - [LinkedIn](https://www.linkedin.com/in/khanhphq)
 
 Thanks for visiting my League! Have a great day! 😄
