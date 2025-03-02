@@ -31,4 +31,10 @@ I'm a passionate software developer dedicated to creating efficient and innovati
 - [Facebook](https://www.facebook.com/khanhph.q)
 - [LinkedIn](https://www.linkedin.com/in/khanhphq)
 
+## 💖 Donate
+
+If you find my work useful and would like to support me, you can buy me a coffee:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-donate-yellow.svg)](https://www.buymeacoffee.com/khanhphq)
+
 Thanks for visiting my League! Have a great day! 😄
