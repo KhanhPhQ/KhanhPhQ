@@ -1,7 +1,7 @@
 # Hi there, I'm Khanh, Pham Quoc 👋
 
 Welcome to the League of KhanhPhQ!
-I'm a passionate software developer dedicated to creating efficient and innovative solutions. Here's a bit about me:
+I'm a programmer, full-stack developer, and data analyst. Here's a bit about me:
 
 ## 🚀 About Me
 
@@ -16,7 +16,7 @@ I'm a passionate software developer dedicated to creating efficient and innovati
 
 - **Programming Languages:** Python, C++ (MQL4/MQL5), Java
 - **Databases:** MySQL, SQL Server, Oracle
-- **Tools & Platforms:** Git, Docker, AWS, Azure, VSCode
+- **Tools & Platforms:** Git, Docker, AWS, Azure, VSCode, Web Obiee
 - **Other Skills:** Agile, Scrum, DA, DevOps, CI/CD
 
 ## 📊 GitHub Stats
