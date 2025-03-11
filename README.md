@@ -17,7 +17,7 @@ I'm a programmer, full-stack developer, and data analyst. Here's a bit about me:
 - **Programming Languages:** Python, C++ (MQL4/MQL5), Java
 - **Databases:** MySQL, SQL Server, Oracle
 - **Tools & Platforms:** Git, Docker, AWS, Azure, VSCode, Web Obiee
-- **Other Skills:** Agile, Scrum, DA, DevOps, CI/CD
+- **Other Skills:** Agile, Scrum, DBA, DevOps, CI/CD
 
 ## 📊 GitHub Stats
 
